@@ -1,0 +1,10 @@
+# temporary files
+*.log
+*.pot
+*.pyc
+*.csv
+__pycache__/
+
+# temporary files dir
+.idea/
+
